@@ -6,5 +6,6 @@
 <body>
     <h1>Application deployed successfully!</h1>
     <p>This application has been deployed through Jenkins CI/CD pipeline.</p>
+    <h1>Thank You</h1>
 </body>
 </html>
